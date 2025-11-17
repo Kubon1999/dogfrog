@@ -17,7 +17,7 @@ export default function Home() {
 	const [copied, setCopied] = useState(false);
 
 	const handleCopy = () => {
-		navigator.clipboard.writeText('soon');
+		navigator.clipboard.writeText('6kUqjWSZkgcHzEN9jW7vuJaf7t8pgqoxcd63tEvWpump');
 		setCopied(true);
 		setTimeout(() => setCopied(false), 2000);
 	};
@@ -36,7 +36,7 @@ export default function Home() {
 						onClick={handleCopy}
 						className="px-3 py-1 border border-white rounded hover:bg-white hover:text-black transition"
 					>
-						{copied ? 'Copied!' : 'CA: soon'}
+						{copied ? 'Copied!' : 'CA: 6kUqjWSZkgcHzEN9jW7vuJaf7t8pgqoxcd63tEvWpump'}
 					</button>
 				</div>
 			</div>
