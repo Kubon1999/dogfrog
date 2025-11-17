@@ -63,6 +63,10 @@ export default function Home() {
 				</p>
 				<p className="mt-4 opacity-50 text-[8px]">
 					This is a fan-run website and not affiliated with the official TikTok profile.
+					By engaging with $ivy, a meme token on Pump.funs Solana platform, you agree to this Disclaimer. $ivy is for entertainment purposes only and has no utility or guaranteed value. It is highly speculative and extremely volatile.
+ 					The $ivy family receives 0.05% to 0.95% per trade on PumpSwap.
+					This is not financial or legal advice. Always consult qualified professionals before making decisions. The Creator and the family are not advisors and are not liable for any losses.
+					Verify all details directly at pump.fun or x.com.If you do not fully understand the risks, please do not engage.Proceed with caution.
 				</p>
 			</div>
 		</main>
